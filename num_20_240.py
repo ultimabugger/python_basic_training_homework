@@ -1,0 +1,1 @@
+print(f"Числа от 20 до 240 кратные 20 или 21 {[num for num in range(20, 240) if num % 20 == 0 or num % 21 == 0]}")
